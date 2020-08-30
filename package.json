@@ -1,0 +1,25 @@
+{
+  "name": "nhanderu-pm",
+  "version": "0.0.1",
+  "description": "A Project management tool focusing on Scrum and Kanban",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurPieri/Nhanderu.git"
+  },
+  "keywords": [
+    "Scrum",
+    "Kanban",
+    "Project",
+    "management"
+  ],
+  "author": "Arthur Pieri and JP Ventorim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArthurPieri/Nhanderu/issues"
+  },
+  "homepage": "https://github.com/ArthurPieri/Nhanderu#readme"
+}
