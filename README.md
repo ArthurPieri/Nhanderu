@@ -15,12 +15,12 @@ As the levels go up so goes the rewards that are available, like new training ca
  
 **Disclaimer**
 Levels are not associated with the hierarchy of the company.
- 
+
 #### Patents
-The are like the coat of arms, representing the hierarchical position of ones in the company.
- 
+They are like the coat of arms, representing the hierarchical position of ones in the company.
+
 #### Achievements
-They are just like in video games, a proof that you completed a challenge. Can also be associated with a financial reward.
- 
+Just like in videogames, a proof that you completed a challenge. Can also be associated with a financial reward.
+
 ### Ranking
 The best ones are on top.
