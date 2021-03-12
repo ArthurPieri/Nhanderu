@@ -1,2 +1,0 @@
-# Nhaderu Backend
-
